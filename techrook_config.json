@@ -1,7 +1,7 @@
 {
   "config": {
     "sliderAdIndex": 1,
-    "listAdIndex": 2,
-    "newsFromEachSite": 10
+    "listAdIndex": 1,
+    "newsFromEachSite": 5
   }
 }
