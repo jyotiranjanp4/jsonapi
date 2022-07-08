@@ -3,6 +3,6 @@
     "sliderAdIndex": 2,
     "listAdIndex": 6,
     "newsFromEachSite": 10,
-    "showAds": "false"
+    "showAds": false
   }
 }
